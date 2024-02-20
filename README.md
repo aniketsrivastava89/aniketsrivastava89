@@ -1,4 +1,4 @@
-### Hi there 👋
+### eHey 👋 What's up?  My name is Aniket Srivastava and I'm a Computer Science student👋
 
 <!--
 **aniketsrivastava89/aniketsrivastava89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
