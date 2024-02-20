@@ -1,10 +1,16 @@
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/FoPnbeunzAsAAAAC/goku-gohan.gif"  />
+</div>
+
+###
+
 <p align="left">Hey 👋 I'm Aniket Srivastava, a dedicated Computer Science student with a passion for learning and innovation. I'm eager to leverage my skills and determination to drive both personal growth and contribute to the success story of any organization I work with. Excited to connect, learn, and collaborate with like-minded individuals in the tech community!</p>
 
 ###
 
-<img align="right" height="200" src="https://media1.tenor.com/m/FoPnbeunzAsAAAAC/goku-gohan.gif"  />
-
-###
+<br clear="both">
 
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=aniketsrivastava89&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
