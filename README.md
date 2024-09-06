@@ -8,7 +8,8 @@
 
 <br clear="both">
 
-<p align="left">Hey 👋 I'm Aniket Srivastava, a dedicated Computer Science student with a passion for learning and innovation. I'm eager to leverage my skills and determination to drive both personal growth and contribute to the success story of any organization I work with. Excited to connect, learn, and collaborate with like-minded individuals in the tech community!</p>
+<p align="left">Hello!
+I'm Aniket Srivastava, a Bachelor of Technology graduate specializing in Computer Science Engineering from the School of Management Sciences, Lucknow. Currently working as a Manual Tester at QualityKiosk Technologies Pvt. Ltd., I'm passionate about leveraging my skills and determination to contribute to both my professional journey and the success of the organizations I work with. I'm always eager to learn and embrace new challenges in the tech industry!</p>
 
 ###
 
